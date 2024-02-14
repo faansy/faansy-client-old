@@ -9,7 +9,6 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "start": "serve dist -s -n -L -p $PORT"
   },
   "dependencies": {
     "@canvasjs/react-charts": "^1.0.0",
@@ -21,7 +20,6 @@
     "react-infinite-scroll-component": "^6.1.0",
     "react-router-dom": "^6.21.3",
     "sweetalert2": "^11.10.5",
-    "serve": "^14.2.0",
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
